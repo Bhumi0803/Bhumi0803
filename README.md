@@ -28,17 +28,20 @@
 <br />
 ---
 
+
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Bhumi0803"  GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhumi0803&show_icons=true&hide_border=true" />
+  <img align="left" alt="LiveWithCodeAnkit GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LiveWithCodeAnkit&show_icons=true&hide_border=true" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Bhumi0803  GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhumi0803 " />
+<img align="left" alt="LiveWithCodeAnkit GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiveWithCodeAnkit" />
 
 </details>
 
