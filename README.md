@@ -1,6 +1,7 @@
 ### Hi  I'm Bhumi Rana  
 
- <img align="right" alt="GIF" src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500" height="320" />
+
 
 
 ## Skilled web developer with expertise in React JS, Next JS, TypeScript, and Node JS. Enjoys learning and working on exciting projects to expand technical knowledge. Passionate about bringing ideas to life and open to new opportunities. Let's connect and explore how I can assist you!.
